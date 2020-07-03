@@ -1,0 +1,27 @@
+body{
+    font-family: "roboto";
+}
+h1{
+    font-size: 40px;
+   
+}
+
+.name-highlight{
+    color: rgb(226, 175, 8);
+}
+
+.selfDescription{
+    
+    
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+
+width: 100%;
+}
