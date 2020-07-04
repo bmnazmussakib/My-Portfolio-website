@@ -4,6 +4,7 @@ body{
     padding: 0;
     color: rgb(26, 25, 25);
 }
+
 h1{
     font-size: 40px;
     text-transform: uppercase;
@@ -69,5 +70,39 @@ section{
 
 .middle-section h2{
     font-size: 40px;
+    
+}
+
+.exp{
+    margin-left: 65px;
+    font-size: 40px;
+}
+
+.single-exp{
+    box-shadow: 10px 10px 40px grey;
+    height: 80%;
+    border-radius: 10px;
+    background-color: white;
+    
+}
+.third-section{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image-slice: 10%;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 10%;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
     
 }
