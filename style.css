@@ -42,9 +42,9 @@ width: 100%;
     
 }
 section{
-    height: 500px;
+    height: 600px;
     overflow: hidden;
-    margin-bottom: 120px;
+    
 }
 .link-button{
     text-decoration: none;
@@ -80,7 +80,7 @@ section{
 
 .single-exp{
     box-shadow: 10px 10px 40px grey;
-    height: 80%;
+    height: 60%;
     border-radius: 10px;
     background-color: white;
     
